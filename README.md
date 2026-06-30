@@ -1,4 +1,3 @@
-# CS-305 Portfolio
 
 ## Artemis Financial Secure Software Project
 
